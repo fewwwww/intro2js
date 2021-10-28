@@ -9,3 +9,5 @@ const conditions = (randomParameter) => {
     console.log('really random');
   }
 };
+
+conditions('2193');
