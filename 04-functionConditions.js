@@ -11,3 +11,6 @@ const conditions = (randomParameter) => {
 };
 
 conditions('2193');
+conditions('random');
+conditions('parameter');
+conditions('randomParameter');
